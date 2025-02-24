@@ -1,18 +1,25 @@
 {
-  "productName": "Magical Deals",
+  "productName": "Magman",
   "theme": {
-    "isDark": true,
-    "color": "teal"
+    "color": "Peach",
+    "isDark": true
   },
   "heroSection": {
     "title": [
-      { "text": "Create the best" },
-      { "text": "App", "isGradient": true },
-      { "text": "in the world" }
+      {
+        "text": "Unfold Nature's"
+      },
+      {
+        "text": "Delicacy, Delightfully Dried MANGO",
+        "isGradient": true
+      },
+      {
+        "text": "in Your Hands"
+      }
     ],
-    "description": "Fazzle.ia helps companies expand globally with seamless collaboration, making it easier to build and manage teams in 180+ countries.",
-    "imageUrl": "https://essentials.pixfort.com/saas/wp-content/uploads/sites/3/2020/05/saas-intro-mockup.png",
-    "buttonText": "Get Started"
+    "description": "Savor the bold, tangy crunch of our dried mangoes, perfectly packaged in their own eco-friendly, recycled skin. A guilt-free snack that's delicious and sustainable.",
+    "imageUrl": "https://w7.pngwing.com/pngs/790/811/png-transparent-sliced-mangoe-juice-mango-alphonso-fruit-flavor-mango-food-dried-fruit-tropical-fruit.png",
+    "buttonText": "Shop now!"
   },
   "pricing": {
     "settings": {
@@ -160,32 +167,36 @@
       }
     ]
   },
-
   "problemSection": {
     "title": [
-      { "text": "Create the best" },
-      { "text": "Gadget", "isGradient": true },
-      { "text": "in the world" }
+      {
+        "text": "Enjoy Nature's"
+      },
+      {
+        "text": "Bounty,",
+        "isGradient": true
+      },
+      {
+        "text": "with a Delicious Twist"
+      }
     ],
-    "description": "Make data-driven decisions about where to invest your marketing budget, when to hire, and where there are opportunities for improvement.",
+    "description": "All too often, finding a healthy, flavorful snack can be a struggle. With unhealthy choices at every corner, maintaining a balanced diet seems to be a constant fight.",
     "problem": {
-      "title": "Before Using Databox",
+      "title": "Before Using Magman",
       "points": [
-        "Data is scattered across multiple tools and teams",
-        "It takes too long to get the information you need",
-        "It's difficult to gain insights from your data",
-        "Decisions are based on intuition and assumptions",
-        "Creating reports manually takes a lot of time"
+        "Healthy snacks are hard to find",
+        "Snacking often leads to unhealthy choices",
+        "Fresh fruits are not always available year-round",
+        "It's challenging to find sustainable, eco-friendly snack options"
       ]
     },
     "solution": {
-      "title": "After Using Databox",
+      "title": "After Using Magman",
       "points": [
-        "A centralized source of truth for data",
-        "Your team or clients can access the answers they need instantly",
-        "Clear visibility into company performance",
-        "Better decisions informed by data",
-        "Less time on reporting, more time on strategy"
+        "Magman provides a nutritious snack option",
+        "Enjoy the tangy, bold flavor of a snack that's actually good for you",
+        "Delight in the taste of mangoes, available all year round",
+        "An eco-friendly solution, packaged in its own recycled skin"
       ]
     }
   },
@@ -228,31 +239,67 @@
     "menu": {
       "title": "Menu",
       "items": [
-        { "name": "Home", "route": "/" },
-        { "name": "Services", "route": "/services" },
-        { "name": "Products", "route": "/products" },
-        { "name": "Pricing", "route": "/pricing" }
+        {
+          "name": "Home",
+          "route": "/"
+        },
+        {
+          "name": "Services",
+          "route": "/services"
+        },
+        {
+          "name": "Products",
+          "route": "/products"
+        },
+        {
+          "name": "Pricing",
+          "route": "/pricing"
+        }
       ]
     },
     "resources": {
       "title": "Resources",
       "items": [
-        { "name": "Documentation", "route": "/docs" },
-        { "name": "API Reference", "route": "/api" }
+        {
+          "name": "Documentation",
+          "route": "/docs"
+        },
+        {
+          "name": "API Reference",
+          "route": "/api"
+        }
       ]
     },
     "legal": {
       "title": "Legal Information",
       "items": [
-        { "name": "Privacy Policy", "route": "/privacy" },
-        { "name": "Terms & Conditions", "route": "/terms" }
+        {
+          "name": "Privacy Policy",
+          "route": "/privacy"
+        },
+        {
+          "name": "Terms & Conditions",
+          "route": "/terms"
+        }
       ]
     },
     "socialLinks": [
-      { "name": "facebook", "link": "#" },
-      { "name": "tiktok", "link": "#" },
-      { "name": "vk", "link": "#" },
-      { "name": "dribbble", "link": "#" }
+      {
+        "name": "facebook",
+        "link": "#"
+      },
+      {
+        "name": "tiktok",
+        "link": "#"
+      },
+      {
+        "name": "vk",
+        "link": "#"
+      },
+      {
+        "name": "dribbble",
+        "link": "#"
+      }
     ],
     "copyright": "© 2024 Bekets. All Rights Reserved."
   },
